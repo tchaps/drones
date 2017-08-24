@@ -1,0 +1,11 @@
+{
+	"populationSize" : 50,
+	"trackId" : "Track",
+	"nbSelectedDrone" : 5,
+	"droneStep" : 1,
+	"droneMoveSpeed" : "0.1",
+	"defMutationProb" : "0.3f",
+	"defMutationPerc" : "1.0f",
+	"defCrossSwapProb" : "0.6f",
+	"defMutationAmount" : "2.0f"
+}
